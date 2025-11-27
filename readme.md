@@ -9,6 +9,7 @@
 ![image-20251127171402591](docs/导入.png)
 
 添加#widget标签：
+
 ![image-20251127171329926](docs/标签.png)
 
 执行脚本：
@@ -16,7 +17,7 @@
 
 左侧边栏会出现控制按钮：（用于控制显示与隐藏播放器）
 
-![image-20251127171815106](D:\code\trilium-MusicPlayer\docs\控制按钮.png)
+![image-20251127171815106](docs/控制按钮.png)
 
 添加音乐：
 拖拽音乐到musics文件夹 添加属性#customResourceProvider  值：sound/音乐文件名.mp3
